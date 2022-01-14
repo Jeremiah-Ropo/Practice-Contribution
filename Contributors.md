@@ -295,4 +295,17 @@
 </td>
 <!-- End of column-24 -->
 </tr>
+<!-- Start of column-25 -->
+<td align="center">
+  <a href="https://github.com/Jeremiah-Ropo">
+    <img
+      src="https://avatars.githubusercontent.com/u/62364704?v=4"
+      width="100px"
+    />
+    <br />
+    <sub>Patrick Jeremiah</sub>
+  </a>
+</td>
+<!-- End of column-25 -->
+
 </table>
